@@ -1,4 +1,4 @@
-const CACHE_NAME = 'simpro-pwa-v2.1.0';
+const CACHE_NAME = 'simpro-pwa-v2.1.2';
 
 self.addEventListener('install', function(event) {
   self.skipWaiting();
